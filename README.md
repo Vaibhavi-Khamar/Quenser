@@ -3,6 +3,6 @@
 
 ```
 An information exchange portal
-Java based web application using SpringMVC, HibernateORMt, SpringSecurity
+Java based web application using SpringMVC, HibernateORM, SpringSecurity
 Designed using HTML, CSS, JavaScript, Bootstrap, AJAX and jQuery
 ```
